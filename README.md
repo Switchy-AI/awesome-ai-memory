@@ -74,6 +74,7 @@ Structured memory beyond chunks and vectors.
 
 Production patterns for long-running agents.
 
+- [AccInt](https://github.com/maxbaluev/accreted-intelligence) — local-first Work Model and MCP server for coding-agent memory across Claude Code, OpenCode, Codex, and Cursor; uses a SQLite-backed substrate and verified outcome feedback. [Homepage](https://accint.xyz/). Public integration glue with private engine.
 - [AutoGPT memory backends](https://github.com/Significant-Gravitas/AutoGPT) — reference for how autonomous agents handle state.
 - [CrewAI memory](https://docs.crewai.com/concepts/memory) — short-term, long-term, and entity memory for multi-agent crews.
 - [Letta architecture docs](https://docs.letta.com/concepts/memgpt) — walkthrough of the hierarchical memory approach.
