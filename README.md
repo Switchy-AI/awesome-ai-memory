@@ -48,6 +48,7 @@ Open-source libraries you can install today.
 - [Zep](https://github.com/getzep/zep) — long-term memory store with fact extraction and temporal knowledge graphs.
 - [Cognee](https://github.com/topoteretes/cognee) — memory for AI agents with knowledge graphs + vector search.
 - [Motorhead](https://github.com/getmetal/motorhead) — server for LLM chat history and context.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) — local-first Rust CLI/TUI for agent memory lifecycle records, recall, redaction, deletion, and audit trails.
 
 ## Vector databases
 
