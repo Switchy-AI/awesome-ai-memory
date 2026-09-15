@@ -107,6 +107,7 @@ RAG is adjacent to memory — usually both are needed.
 
 Managed services for teams that don't want to rebuild this layer.
 
+- [GoodMem](https://goodmem.ai/) — persistent memory spaces and semantic retrieval for agents, with built-in read-only HTTP MCP; managed cloud or self-hosted under a free binary license.
 - [Switchy](https://switchy.build) — shared memory across 450+ models, four-layer architecture, drop-in API.
 - [Mem0 Platform](https://mem0.ai) — managed memory with personalization focus.
 - [Zep Cloud](https://www.getzep.com) — memory + knowledge graphs as a service.
