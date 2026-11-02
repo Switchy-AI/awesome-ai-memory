@@ -77,6 +77,7 @@ Production patterns for long-running agents.
 - [AutoGPT memory backends](https://github.com/Significant-Gravitas/AutoGPT) — reference for how autonomous agents handle state.
 - [CrewAI memory](https://docs.crewai.com/concepts/memory) — short-term, long-term, and entity memory for multi-agent crews.
 - [Letta architecture docs](https://docs.letta.com/concepts/memgpt) — walkthrough of the hierarchical memory approach.
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) — source-linked personal and project text memory for DeepSeek Harness, with conditions and revision history (MIT; public beta; requires DSH).
 
 ## Long-context techniques
 
